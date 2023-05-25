@@ -65,6 +65,6 @@ const EjemploUno = () => {
       </ul>
     </>
   );
-};
+}; 
 
 export default EjemploUno;
